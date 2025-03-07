@@ -1,0 +1,634 @@
+Term,Definition,Category
+Abstract data type (ADT) ,A conceptual model of the way that data is arranged and the operations that can be carried out on the data.,Data Structures
+Abstract syntax tree (AST) ,"A tree representation of the key constructs of a piece of source code, showing the order of evaluation.",Data Structures
+Abstraction ,A set of techniques used to solve complex problems that involves removing unnecessary details so the main processes involved can be easily identified.,Fundamentals of Programming
+Acceptable Use Policy ,"An agreement between an organisation and its users that sets out how computer equipment, the network, and systems should be used, and specifies the ways in which their use is restricted.",Other
+Accepting state ,A state that will be reached when a valid string is input.,Other
+Access modifiers ,"Keywords that specify how the members (attributes and methods) of a class can be accessed. Common modifiers include 'public', 'private', and 'protected'.",Other
+Access speed ,The speed at which data can be written to and read from a storage device.,Other
+Accessibility ,"The practice of removing barriers that prevent access to, or interaction with, products, services, and environments.",Other
+Address bus ,"A communication pathway that is used to carry the address of a memory location in order to either read data from, or write data to, that memory location.",Other
+Address bus width ,The number of parallel lines that make up the address bus. This will determine the amount of memory that can be addressed by the system.,Other
+Addressing mode ,Part of a program instruction that specifies how the operand must be interpreted.,Other
+Adjacency list ,A list of nodes and their adjacent nodes.,Other
+Adjacency matrix ,A two-dimensional array used to store graph data.,Other
+ADSL ,Asymmetric digital subscriber line. Technology that enables the use of a standard telephone line to receive and transmit data. It enables higher download speeds than upload speeds.,Other
+Aggregation ,"Defines a 'has-a' relationship between two classes. In aggregation, the objects can exist independently of each other.",Other
+Agile methodology ,A software development methodology used to manage the stages of the software development life cycle.,Software Development
+Algorithm ,A finite and well-defined sequence of steps that need to be followed to perform a task.,Fundamentals of Programming
+ALU ,Arithmetic logic unit. A component of the processor that performs arithmetic operations and logical comparisons.,Other
+Amplitude ,"The height of an analogue wave, measured from its rest level, at a given point in time. For sound waves, this is a measurement of volume.",Other
+Analogue ,A signal that varies continuously over a period of time. Sound waves are typical examples of analogue wave forms.,Other
+AND ,A Boolean operation that outputs True if both input values are True.,Other
+Anomaly ,A deviation from the common rule that does not fit into any established pattern.,Other
+Anti-malware ,Software that is used to detect and remove malware.,Other
+Append mode ,A file handling mode that allows a program to write extra data at the end of a file without erasing the existing contents of the file.,Other
+Append operator (++) ,Used to add a new item or items to the end of a list.,Other
+Application software ,"Software designed to carry out a task for an end user, such as creating a document or sending an email.",Other
+Arc ,A connection between two nodes in a graph data structure. Also called edge.,Other
+Argument ,A data value or reference passed to a subroutine as required by its defined parameters.,Other
+Arithmetic operators ,"Operators that perform mathematical operations on data, such as addition or division.",Other
+Array ,A data structure whose elements can be accessed directly by index. The position of each element is computed at runtime.,Other
+Artificial intelligence ,"The research and development of computer systems that determine the relationships between inputs and output to make predictions, instead of following programmed instructions.",Other
+ASCII ,"American Standard Code for Information Interchange. An encoding format that allocates a numeric code to characters (e.g. digits, letters, punctuation marks, etc.) in order for them to be represented in binary within a computer system.",Other
+Assembler ,A program that translates assembly code into machine code.,Other
+Assembly languages ,A low-level programming language that uses mnemonics to represent machine code operations.,Other
+Asymmetric encryption ,A method of encryption in which a pair of keys (a public key and a private key) are used to encrypt and decrypt data.,Networks and Security
+Asynchronous communication ,A method of communication where data is transmitted over a channel that is not controlled by a shared clock signal.,Other
+Attribute (databases) ,A property or characteristic of a database entity. The attributes specify the data items that are used to define an entity.,Other
+Attribute (OOP) ,A property of an object. The attributes specify the data items that are used to define the object.,Other
+Authentication ,A security measure used to verify a user's identity and level of permissions.,Other
+Back-up ,"A copy of data, usually stored on a separate device, that can be used to recover the data if a storage device fails or the original data is corrupted or lost.",Other
+Backtracking ,A technique for solving problems recursively.,Other
+Bandwidth ,The theoretical maximum amount of data that can be transferred over a communication channel. It is measured in bits per second.,Other
+Barcode ,A means of representing data in machine-readable form. Barcodes have traditionally represented data by a set of parallel lines of varied width and spacing.,Other
+Base case ,A value for which there is a solution for a basic instance of a problem and which provides a stopping condition for recursion.,Other
+Baud rate ,The speed of data transmission. The number of times per second that a signal changes (or could change).,Other
+Big Data ,Data that is too large and complex to be dealt with by traditional processing methods and systems.,Other
+Big O ,A formal notation for expressing the time or space complexity of an algorithm.,Other
+Binary ,A number system that uses two distinct symbols (the digits 0 and 1) to represent a number. Also called base-2.,Other
+Binary addition ,The process of adding two binary numbers.,Other
+Binary file ,A file that stores data as binary sequences that can be interpreted by a computer system but are not in a human-readable format.,Other
+Binary search ,An algorithm to search for an item in a sorted data set. It discards half of the remaining data with each comparison and repeats the process until the item is found or until the data set is exhausted.,Other
+Binary search tree ,A data structure that is designed for efficient searching where each node's value is greater than that of all nodes in its left subtree and less than that of all nodes in its right subtree.,Data Structures
+Binary shift left ,Moving all the bits of a binary sequence one place to the left.,Other
+Binary shift right ,Moving all the bits of a binary sequence one place to the right.,Other
+Binary tree ,A rooted tree where each node has a maximum of two child nodes.,Data Structures
+Biometric ,A physical characteristic that can be used to authenticate an individual person.,Other
+BIOS ,"Basic Input/Output System. Software that is stored in non-volatile memory, that carries out checks on core system components and starts up (boots) a computer system to the point where management and control can be passed to the operating system.",Other
+Bit ,A binary digit. The basic unit of data within a computer system that has the value 0 or 1.,Other
+Bit depth ,The number of bits used to encode each sample. Determines how accurately the sample can be represented. Also called sampling resolution.,Other
+Bit pattern ,A unique string of binary digits used in a representation.,Other
+Bit rate ,The number of bits that are transmitted over a communications channel per second.,Other
+Bitmapped graphic ,A type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped image.,Data Structures
+Bitmapped image ,A type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped graphic.,Other
+Black box testing ,Testing that does not rely on understanding the inner workings of a program.,Software Development
+Blagging ,An attack in which the attacker invents a scenario in order to convince the victim to give them personal information or money.,Other
+Bluetooth ,A standard for wireless technology that is used for exchanging data over short distances.,Other
+BNF ,Backus-Naur Form. A formal notation for describing a context-free language such as a programming language.,Other
+Boolean algebra ,A branch of algebra where the variables have one of two possible values � True or False. These values are often expressed as 1 and 0.,Other
+Boolean expression ,"A logical statement, made up of Boolean variables, Boolean constants and Boolean operators that will always evaluate as True or False.",Other
+Boolean identity ,A relation between two elements that always holds true for all possible values of the variable(s).,Other
+Boolean operator ,"An operator that perform a logical comparison, such as AND, NOT, or OR. Also called logical operator.",Other
+Boolean variable ,"A variable that takes one of only two values: True or False. These values are represented in binary as 1,1 or 0,0. Some systems will display the values as Yes/No.",Other
+Boot process ,Startup instructions held in ROM that include initialising the RAM and loading an operating system.,Other
+Bootloader ,Software responsible for carrying out the boot process when the computer is first turned on.,Other
+Botnet ,A group of computers infected by malware that can be controlled remotely.,Other
+Boundary data ,Test data that is on the limit of the acceptable range of valid data.,Other
+Breadth-first search ,A method of searching a graph data structure that visits all nodes adjacent to the current node before moving on. Uses a queue to support the process.,Other
+Brute force attack ,A method of systematically trying all possibilities to find secret information (eg a password or encryption key).,Other
+Bubble sort ,A sorting algorithm that repeatedly compares pairs of values within a list and swaps them if they are out of order.,Other
+Bus ,"A communication pathway along which signals are transmitted. Historically, a set of parallel wires.",Other
+Bus topology ,The arrangement (usually logical) of a network where devices are connected over a shared main cable.,Other
+Byte ,Eight bits of binary data.,Other
+Bytecode ,"Low-level code, produced by a compiler, that can be interpreted by a virtual machine.",Other
+Cache ,"High-speed memory used to hold the data that is accessed most frequently, to improve processor performance.",Computer Systems
+Caesar cipher ,A simple substitution cipher in which each letter is shifted by a certain number of places.,Other
+Call stack ,A stack that is used to store information (stack frames) relevant to all subroutines that are currently running within a program.,Data Structures
+Cardinality ,The number of (distinct) elements in a set.,Other
+Cartesian product ,The set of all ordered pairs formed by multiplying the elements of two sets.,Other
+Casting ,"Changing the data type of a piece of data, for example, converting a string to an integer.",Other
+CD ,Compact disc. An optical storage device.,Other
+Certification Authority (CA) ,A trusted organisation that can authenticate the certificate for a website provider.,Other
+Character ,"A single letter, number, or symbol.",Other
+Character set ,"A system for representing letters, numbers, and symbols in binary, with each represented by a binary sequence.",Other
+Checksum ,A value derived from a block of binary data that is used for error checking as part of a data communication system.,Other
+CIDR ,Classless Inter-Domain Routing. A method that allows variable-length network identifiers. The length is typically indicated as a suffix to an IP address (a slash followed by the number of bits allocated to network ID).,Other
+Ciphertext ,An encrypted message that is the result of applying an encryption algorithm to a plaintext message.,Other
+CIR ,Current Instruction Register. The register that holds a copy of the instruction that is currently being decoded and executed.,Other
+Circuit switching ,"A method of transferring data across a network, where the end-to-end path is established before any data is sent.",Other
+Circular queue ,A way of implementing a queue based on a static array where free space at the start of the array is used once the end of the array is reached.,Data Structures
+Class (HTML) ,An identifier that can be applied to a collection of HTML elements to style them in a way that is specified by a corresponding CSS rule-set.,Other
+Class (OOP) ,A definition of an object that describes its properties (attributes) and behaviours (methods).,Other
+Class diagram ,A diagram that is used to model the classes within an OOP system. A rectangle is used to represent each class. Lines and arrows are used to show the relationships between the classes.,Other
+Client�server model ,A networking architecture where devices are designated as clients or servers. Clients make requests for services from servers that respond to these requests.,Other
+Clock cycle ,The elapsed time between the change of signals from a clock.,Other
+Clock speed ,"The rate at which the processor can complete its programming cycle. Typically measured in gigahertz, where 1Ghz is one billion cycles per second.",Other
+Closed source software ,Software for which the program source code is not made available to the general public.,Other
+Cloud storage ,A method of storing and retrieving files using the internet. The files are hosted on remote servers maintained by the cloud storage provider.,Other
+Co-domain ,The set of data that defines all possible outputs of a function.,Other
+Coaxial cable ,"A cable made up of an inner conductor and an outer conducting shield, separated by an insulator.",Other
+Code review ,The checking of code written by another programmer to ensure its quality.,Other
+Collision (hashing) ,Occurs when two (different) keys generate the same hash value.,Other
+Collision (networking) ,"A situation on a network, where two or more devices transmit at the same time, on the same medium, and the electrical signals collide.",Other
+Colour depth ,The number of bits used to represent a colour. Also known as bit depth.,Other
+Commitment ordering ,A technique used to control multi-user access to a database based around ensuring that multiple commitments are processed in the correct order.,Other
+Comparison operators ,"Operators, such as greater than, that perform comparisons on two data values. The operation returns either True or False.",Other
+Compiler ,A program translator that goes through several stages to produce object code (an executable file).,Other
+Composite key ,A key that is made up of more than one attribute,Other
+Composition ,"Defines an 'is-part-of' relationship between two classes. In composition, one object can exist only as part of another object.",Other
+Compression ,The process of reducing file size by applying a compression algorithm.,Other
+Computational security ,A measure of how hard it is to use a computer to crack a piece of ciphertext.,Other
+Computational steps ,Statements in program code that calculate or compare values.,Other
+Computer architecture ,The structure and organisation of a computer system.,Other
+Computer system ,The hardware and software that work together for computation.,Other
+Concatenation ,Joining two strings together to make a new string.,Other
+Concurrent access ,A situation where one or more user(s) attempt(s) to access the same file or record at the same time.,Other
+Condition ,An expression that evaluates to True or False (such as within an 'if' statement).,Other
+Constant ,An identifier associated with an area of computer memory in which data is stored. The stored data cannot change during program execution.,Other
+Constant time ,The time complexity of an algorithm where the time taken to run it does not depend on the size of the input data set.,Other
+Control bus ,A communication pathway that carries signals to control the communication between the processor and other CPU components.,Other
+Control information ,"Information, typically contained in a packet header, that provides data for packet routing, sequencing, and delivery.",Other
+Control protocol ,An agreed method used to determine when messages should (and should not) be sent.,Other
+Control unit (CU) ,A component of the processor that directs the operation of the other system components by providing timing and control signals. Also called program control unit (PCU).,Other
+Convex combination ,One or more vectors that lie within the convex hull.,Other
+Convex hull ,A representation of the space between two or more vectors.,Other
+Copyright ,The right given to the originator of a piece of work to control how it can be used.,Other
+Core ,"A processing unit that contains an ALU, a control unit, and registers. A processor can have multiple cores, which can improve the performance of a computer system.",Other
+Countable set ,A finite set where the members can be counted using natural numbers.,Other
+Countably infinite set ,A set whose elements can be counted such that you will eventually get to a particular element in a finite amount of time.,Other
+CPU ,Central processing unit. The part of the computer that executes program instructions to process data. It also handles main memory and input-output operations.,Computer Systems
+CRUD ,"Create, Read, Update, Delete. The main operations that can be carried out on data in a database.",Other
+Cryptography ,The practice and study of techniques used for data encryption.,Data Structures
+CSMA/CA ,Carrier Sense Multiple Access with Collision Avoidance. A method used to avoid collisions on a network. A device checks whether the communications channel is idle before attempting to transmit data.,Other
+CSS ,Cascading Style Sheets. A set of definitions that can be used to style the content and layout of an HTML page.,Other
+Cyberattack ,"An attempt to gain unauthorised access to a computer, computing system, or computer network with the intent to cause damage, to cause disruption, or to steal data.",Other
+Dark web ,An unindexed part of the internet that must be accessed through specialist software and hosts a wide range of (mainly illegal) content.,Other
+Data abstraction ,A way of describing the way that data is organised in a way that is independent of the implementation details.,Fundamentals of Programming
+Data bus ,A communication pathway that is used to carry data between the processor and other CPU components.,Other
+Data communication ,The process of sending and receiving data.,Other
+Data mining ,The process of extracting valuable information by discovering patterns in large data sets.,Other
+Data packets ,"A segment of data, usually from a larger message. Each segment has a header and travels independently through a network.",Other
+Data redundancy ,The same item of data being stored in multiple places.,Other
+Data type ,"An attribute of a data item that determines the values that can be stored and the operations that can be carried out on that data item. Examples of common data types are string, character, integer, float, and Boolean.",Other
+Data warehousing ,Data from different sources that is brought together to be used in data analysis.,Other
+Database ,"An organised collection of data that can be as simple as a single file, and as complex as a set of related tables.",Other
+DBMS ,DataBase Management System. A software package that allows a database administrator to maintain one or more databases.,Other
+DDoS ,"Distributed Denial of Service. A malicious attempt to overwhelm a server by bombarding it with requests. In a distributed attack, the requests come from a large number of distributed computer systems, typically a botnet.",Other
+De Morgan�s Laws ,NOT (A AND B) is the same as (NOT A) OR (NOT B). NOT (A OR B) is the same as (NOT A) AND (NOT B).,Other
+Debugging ,The process of finding and correcting errors in program code.,Other
+Declaration ,The process of stating the name of a variable or constant and defining its data type.,Other
+Decomposition ,The process of breaking down a large task into several subtasks.,Other
+Decrement ,"To decrease the value of a variable. For example, count = count - 1",Other
+Default gateway ,A device (typically a router) in a computer network that forwards packets to another network when the destination is not part of the internal network.,Other
+Default value ,A pre-defined value given to a component of a computer program (such as a variable or parameter) when none is explicitly provided.,Other
+Definite iteration ,"A set of instructions that is repeated a specific number of times. Typically it is implemented by using count-controlled loops, such as a for loop.",Other
+Defragmentation ,The process of organising file blocks stored on a disk by grouping them into adjacent sectors.,Other
+Degree of relationship ,"The relationship between two entities (one-to-one, one-to-many, or many-to-many).",Other
+Denary ,A number system that uses ten distinct symbols (the numbers 0�9) to represent a number. Also called decimal or base-10.,Other
+Depth-first search ,A method of searching a graph data structure that explores as far as possible along an unexplored branch before backtracking and selecting a new branch to explore. Uses a stack to support the process.,Other
+Depth-first tree traversal ,An algorithm for traversing a tree data structure that starts at the root node and explores as far as possible along each branch before backtracking.,Data Structures
+Dequeue ,The operation of removing an item from the front of a queue,Data Structures
+Device driver ,Software that provides an interface to a peripheral device such as a printer. The driver translates commands from the peripheral device into a form that the operating system and other programs can understand and vice versa.,Other
+DHCP ,"Dynamic Host Control Protocol. A protocol used when a new device requests to joins a network. The new device is allocated an IP address, subnet mask, default gateway, and DNS server addresses.",Other
+Dictionary ,"An abstract data type that stores an unordered set of key�value pairs. Values are stored and retrieved by key, not by position.",Other
+Dictionary-based method ,"A lossless method of compression where each different word or group of characters is assigned a code. When the file is compressed, the words or character groups are substituted by the codes.",Other
+Digital camera ,A device that captures an image in digital form.,Other
+Digital certificate ,"A file that contains important information relating to the security of websites, including the public key for encryption.",Other
+Digital signature ,A value that is calculated and encrypted that demonstrates that an encrypted document is from the stated sender and has not been tampered with.,Other
+Dijkstra's shortest path algorithm ,An algorithm that finds the shortest path between the start node and all other nodes in a given graph.,Fundamentals of Programming
+Direct addressing ,A method of addressing where the operand is the address of the data to be used.,Other
+Directed graph ,A graph where the connections between nodes are not bidirectional.,Data Structures
+Documentation ,Material that explains how the system works.,Other
+Domain ,The set of data that defines all possible inputs of a function.,Other
+Domain name ,A user-friendly name given to a domain that forms part of the internet.,Other
+Domain name server ,A server that works to resolve domain names to corresponding IP addresses.,Other
+Domain name system ,A hierarchy of servers that work together to resolve domain names to corresponding IP addresses.,Other
+Dot product ,An operation that combines two vectors to produce a scalar value.,Other
+Dynamic data structure ,A collection of data that can grow (or shrink) in size at runtime.,Other
+Dynamic filtering ,"A filtering method used by a firewall, that makes use of a connection table to keep track of open connections.",Other
+e-waste ,"Electronic waste, destined for refurbishment, reuse, resale, recycling, or disposal.",Other
+Eavesdropping ,The process of monitoring network traffic to intercept the data being transmitted.,Other
+Edge ,A connection between two nodes in a graph data structure. Also called arc.,Other
+Efficiency ,An expression of the computational time and space required to perform an algorithm.,Other
+Embedded system ,A complete computer system that has a dedicated function within a larger system.,Other
+Empty set ,The unique set with no members.,Other
+Encapsulation (OOP) ,The concept of packaging data together with the methods that operate on that data.,Other
+Encoding ,The process of representing data in binary form.,Other
+Encryption ,The process of applying an encryption algorithm to plaintext to produce ciphertext that cannot be understood (without decryption).,Networks and Security
+Encryption key ,Information that is needed by an encryption algorithm to encrypt (or decrypt) a message.,Networks and Security
+Enqueue ,The process of adding an item to a queue.,Data Structures
+Entity ,"Something about which data will be stored, e.g. a customer or booking.",Other
+Entity relationship diagram ,A diagram that shows the degree of relationship between two or more entities.,Other
+Erroneous data ,Test data that should be caught by validation and rejected by a system.,Other
+Ethernet ,A group of networking technologies commonly used in local area networks.,Other
+Ethical hacking ,"The process of trying to break into a computer system with the permission of its owner, to determine its vulnerabilities and weak points. Also called penetration testing.",Other
+Exception handling ,The process of dealing with unexpected events that might cause a program to terminate abruptly (crash).,Other
+Executable file ,A file that can be executed by the processor without further translation.,Other
+Exponent ,Part of a floating point number that determines the position of the binary point.,Other
+Exponential time ,The time complexity of an algorithm where the time taken to run it increases by an exponential factor on each single addition to the input data set.,Other
+Expression ,"Combination of variables, constants, values, or operators that is evaluated to produce a result.",Other
+Fact-based model ,"Facts are used to represent, model, and query data sets at the scale of Big Data.",Other
+Fetch-decode-execute cycle ,"A process that is followed repeatedly by the processor in order to carry out instructions. It has three stages: fetch, decode, execute. It is also called the instruction cycle or fetch-execute cycle.",Computer Systems
+Fibre-optic cable ,A cable that can be used to transport electromagnetic waves in the infrared region. These waves are modulated to carry digital data at high speeds over long distances.,Other
+Field ,Part of a record. Each field contains a specific piece of data.,Other
+File handling mode ,"An operation that is specified within a command to open a file, that determines how a file can be used.",Other
+File path ,A route to locate a file in a directory structure. File paths can be absolute or relative. An absolute path will start from the top of the directory structure. A relative path will provide a route that starts from the file that contains the path.,Other
+File repair ,"A type of utility software that can scan a damaged file, extract data from it, and store it as a new usable file.",Other
+File type extension ,"A suffix given to a file name to mark what kind of data is contained in the file, or what type of program created it. Examples include '.docx', '.jpg', and '.pdf'.",Other
+Filter function ,"A higher-order function that takes a list and some criteria as arguments, and returns a new list. The new list contains only those items that meet the specified criteria.",Other
+Fingerprint ,A clue that helps to decrypt a message.,Other
+Finite set ,A set where the number of elements is countable.,Other
+Finite state machine ,A model of a system with a finite number of states. Transition between states depends on the input received when the machine is in a particular state.,Theory of Computation
+Firewall ,A system that filters network traffic to protect against unauthorised flows of data in or out of the network.,Networks and Security
+First-class object ,An object that can be used as an argument to a function or produced as a return value.,Other
+Fixed point number ,A real number where the binary point is stored in a fixed position.,Other
+Flash memory ,A general term for non-volatile memory devices that store binary data in electrical circuits.,Computer Systems
+Flat file database ,A database in which all data is held in a single table.,Other
+Flip-flop ,A circuit that can store a single-bit value to act as a simple memory unit.,Other
+Float ,A data type for a number with a decimal place. Stored as a floating point number.,Other
+Floating point number ,"A real number that is stored as a mantissa with a given number of significant digits, and an exponent that determines the position of the binary point.",Other
+Flowchart ,A diagram that uses a standard set of symbols to document an algorithm.,Other
+Foreign key ,An attribute in one table that is the primary key in another table and is used to link the tables together.,Databases and SQL
+Frame ,The name of the data structure at the link layer. It is used to move a packet between devices on a network.,Other
+Frequency ,The rate of occurrence within a given time frame.,Other
+Frequency analysis ,The process of examining the distribution of the letters or symbols in a piece of text.,Other
+Frequency band ,A continuous range of radio wave frequencies allocated to a particular service. Frequency bands are often split into channels.,Other
+Front ,A pointer to the start of a queue.,Other
+FTP ,File Transfer Protocol. An application layer protocol that handles the exchange of files between FTP clients and FTP servers.,Other
+Full adder ,"A circuit, made up of several half adders, that performs the addition of binary numbers",Other
+Function (Mathematics) ,A set of rules that connects a set of values (the inputs of the function) to another set of values (the outputs of the function). Every member of the inputs set must map to a single element from the outputs set.,Other
+Function (Programming) ,A named block of code that performs a task and returns one or more values.,Other
+Function composition ,An operation in which one function is applied to the result of another function.,Other
+Function type ,The data type of a function's parameter(s) and return value(s).,Other
+Functional programming ,"A declarative programming paradigm, where pure functions are applied to data to transform it into new data. In functional programming data is immutable and programs have no state.",Other
+Gateway ,"A device within a network that connects it to another network. If the networks use different protocols, it will handle the conversion from one protocol to the other.",Other
+GDPR ,"General Data Protection Regulation.  It specifies the rules relating to the collection, storage and distribution of personal data that apply to most UK businesses and organisations.",Other
+General case ,A statement that expresses the solution to a problem in terms of a reference to a smaller version of that same problem.,Other
+Generalisation (abstraction) ,The process of removing unnecessary detail so that the problem can be generalised into a similar category of problems.,Fundamentals of Programming
+Gibibyte ,"One gibibyte is 1, comma, 073, comma, 741, comma, 824,1,073,741,824 bytes (2, to the power 30 ,230). The symbol for the gibibyte is GiB. See also gigabyte.",Other
+Gigabyte ,"One gigabyte is one billion bytes (10, to the power 9 ,109). The symbol for the gigabyte is GB. See also gibibyte.",Other
+Global variable ,A variable that is accessible from all parts of a program.,Other
+Graph ,A non-linear data structure that comprises a set of connected nodes.,Data Structures
+Graph schema ,Describes the vertices and edges in a graph and defines how they relate to each other. Often shown in the form of a diagram.,Data Structures
+GUI ,Graphical User Interface. A type of interface that allows the user to interact with a computer system. It usually involves clicking on icons or selecting options from a menu.,Other
+Hacking ,Gaining unauthorised access to or control of a computer system.,Other
+Half adder ,A circuit that performs the addition of two bits. It takes two bits as input and outputs a sum and carry bit.,Other
+Halting problem ,A problem that is significant to the theory of computation as it proves that some problems are undecidable or cannot be computed.,Theory of Computation
+Hard disk drive (HDD) ,"A form of secondary storage, in which magnetic dots stored on platters (or disks) are used to store binary data.",Other
+Hardware ,The physical components of a computer system.,Other
+Harvard architecture ,A computer architecture that provides separate memories for data and instructions.,Other
+Hash table ,An abstract data type that is used to optimise searching. Values are stored at locations of which the positions can be calculated by applying an algorithm to the key (of that data).,Data Structures
+Hashing algorithm ,An algorithm that generates a hash value from a key.,Fundamentals of Programming
+Head function ,A function that returns the first item of a list of items as a scalar value.,Other
+Heading (HTML) ,"Text that is usually larger or of a different style, to denote a section within a page.",Other
+Heap ,A pool of memory that is allocated to service dynamic data structures,Other
+Heuristic ,"An approach to solving a problem that will provide an approximate or ""good enough"" solution to an intractable problem.",Other
+Hexadecimal ,A number system that uses 16 distinct symbols (the numbers 0-9 and the letters A-F) to represent a number. Also called hex or base-16.,Other
+Hierarchy chart ,A diagram that shows the design of a system from a top-down perspective.,Other
+High-level languages ,Programming languages that allow the programmer to specify the logical steps to solve a problem without having to worry about the low-level machine operations needed to perform the computation.,Other
+HTML ,Hypertext Markup Language. Used to specify the elements of a web page to allow them to be presented in a certain way.,Other
+HTML element ,"A component of an HTML page that is enclosed within a start tag and an end tag. For example, <h1>My first book</h1>.",Other
+HTTP ,Hypertext Transfer Protocol. An application layer protocol that enables data exchange between web clients and web servers.,Networks and Security
+HTTPS ,Secure Hypertext Transfer Protocol. A set of application layer protocols that securely handles the exchange of data between web clients and web servers by encrypting the data.,Networks and Security
+Hub ,"A network device that is used to connect devices on a local area network. It is used to simplify cabling systems and acts as a repeater. When data arrives at a port, it is broadcast to the devices connected to every other port.",Other
+Huffman coding ,A lossless compression technique often used to compress data (such as text) in which there are frequently occurring patterns.,Other
+I/O controller ,Input/Output controller. Manages the flow of data between the processor and the input and output devices.,Other
+Id (HTML) ,An identifier that is applied to a single HTML element to style it in a way that is specified by a corresponding CSS rule-set.,Other
+IDE ,Integrated development environment. An application that facilitates the writing and running of programs. It also provides support with debugging and diagnostics.,Other
+Identifier ,"The name that a programmer gives to a variable, constant, or subroutine.",Other
+Image file ,A file containing a digital image.,Other
+Image resolution (density) ,"The number of pixels in the same sized area of an image, usually expressed as pixels per inch (ppi) or dots per inch (dpi).",Other
+Image resolution (size) ,"The number of pixels that make up a digital image, usually expressed as width x height for example 1920 x 1080.",Other
+IMAP ,Internet Message Access Protocol. A protocol used to retrieve email from a server allowing multiple email clients to be synchronised with the same mailbox.,Other
+Immediate addressing ,"A method of addressing, where the operand is the actual data to be used.",Other
+Immutable ,Not able to be changed.,Other
+Immutable data structure ,"A data structure in which stored values cannot be changed (eg added, removed, or replaced) during program execution.",Other
+Imperative languages ,A programming language where the programmer defines a set of statements that must be followed (in the given order) to solve a problem.,Other
+In-order traversal ,A method of traversing a tree so that a node is processed after its left subtree has been examined and before its right subtree has been examined.,Other
+Increment ,"To increase the value of a variable. For example, count = count + 1",Other
+Indefinite iteration ,"A set of instructions that is repeated until a condition is met. Typically it is implemented by using condition-controlled loops, such as a while loop.",Other
+Index ,A number that describes the position of an item within an array. Most computer systems start indexing at 0.,Other
+Infinite set ,A set where the number of elements is not countable.,Other
+Infix notation ,Expressions that are written with the operators positioned between the operands.,Other
+Information hiding ,"A technique that removes all unnecessary detail from a problem to expose its essential characteristics, in order to derive a solution.",Other
+Inheritance ,A feature of OOP that allows you to base one class on another. The new subclass (or child class) inherits all the attributes and methods of the superclass (or parent class).,Other
+Initialisation ,Setting the initial value for a variable.,Other
+Inline style ,A CSS rule-set that is written directly within the tag of an HTML element.,Other
+Input device ,Peripheral devices such as keyboards and microphones that allow data to be entered into a computer system.,Other
+Insertion sort ,A sorting algorithm that progressively evaluates items in a list and inserts them into the correct place in an ordered sublist.,Other
+Instantiation ,A feature of OOP where a new object is created from a class definition and assigned to a reference variable.,Other
+Integer ,"A whole number, such as 5. It can be positive or negative.",Other
+Integer division ,A division where the quotient (result) is an integer and any remainders are discarded. Integer division is sometimes also called floor division.,Other
+Integers (set) ,The infinite set of all whole numbers (positive or negative) including zero.,Other
+Integrity ,"The reliability of data in terms of its accuracy, completeness and consistency.",Other
+Interface ,A shared boundary across which two or more components of a computer system exchange information.,Other
+Internet ,A global system of interconnected computer networks.,Other
+Internet registrar ,A commercial organisation that will register a domain on your behalf.,Other
+Internet registry ,An organisation that allocates domains and maintains the official register of domain owners for one or more top-level domains.,Other
+Internet Service Provider (ISP) ,An organisation that provides a connection to the internet.,Other
+Interpreter ,"A program that translates and executes the instructions of a program written in a high-level language, one line at a time.",Other
+Interrupt ,A signal sent to the processor requesting immediate attention.,Other
+Interrupt service routine ,A program that handles a processor interrupt,Other
+Intractable problem ,A problem that cannot be solved by a computer system in a reasonable amount of time.,Other
+IP ,Internet Protocol. An internet (network) layer protocol that ensures that packets can be transferred between the source and destination using the IP addresses in the packet header.,Other
+IP address ,Internet Protocol address. A binary number assigned to a node in an internet network that is made up of a network ID and a host ID.,Other
+Irrational numbers ,The infinite set of numbers that cannot be expressed as fractions (or ratios).,Other
+Iteration ,The process of repeating a sequence of instructions a number of times within a program loop. This can be a fixed number of repetitions (count-controlled loop) or the number of repetitions can be controlled by a condition (condition-controlled loop).,Other
+JavaScript ,A high-level programming language that can be executed by most web browsers. JavaScript can be used to change the appearance and behaviour of a webpage.,Other
+JSON ,JavaScript Object Notation. An open file format that uses human-readable text for data transmission.,Other
+Karnaugh map ,A way of arranging the truth table for a Boolean expression to facilitate simplification.,Other
+Kibibyte ,"One kibibyte is 1, comma, 024,1,024 bytes (2, to the power 10 ,210). The symbol for the kibibyte is KiB. See also kilobyte.",Other
+Kilobyte ,"One kilobyte is 1, comma, 000,1,000 bytes (10, cubed,103). The symbol for the kilobyte is kB. See also kibibyte.",Other
+Latency ,The time delay between a signal being sent and a signal being received.,Other
+Layer ,An abstraction of a part of the communication system used by computers to exchange data with each other. The OSI model has seven layers.,Other
+Least significant bit (LSB) ,The rightmost bit in a binary number.,Other
+Legislation ,The laws that apply within a country. Computing legislation is a set of laws that regulate the use of computers and related areas.,Other
+Library programs ,Shared repositories of code that can be used by other programs,Other
+Linear search ,"An algorithm that searches for an item in a list of items by systematically examining each item, one after another.",Other
+Linear time ,The time complexity of an algorithm where the time taken to run it rises in direct proportion to the size of the input data set.,Other
+List ,An abstract data type that defines a linear collection of related items.,Other
+List (HTML) ,"A series of items, which may be numbered or marked with bullet points.",Other
+Local Area Network (LAN) ,"A single network covering a single site, usually covering a small geographical area.",Other
+Local variable ,"A variable that is only defined and visible for use in specific parts of a program, e.g within a subroutine.",Other
+Logarithmic time ,The time complexity of an algorithm where the time taken to run it is proportional to the logarithm of the size of input data set.,Other
+Logic circuit diagram ,A diagram that illustrates the arrangement of logic gates in a circuit.,Other
+Logic error ,An error in source code that results in a program behaving unexpectedly.,Other
+Logic gate ,An electronics component that carries out a logical operation on one or more inputs to produce a single output.,Other
+Logic puzzle ,A puzzle that can be solved by logical thinking.,Other
+Logical operators ,"Operators (such as AND, OR, and NOT) that are used to form logical expressions. Also called Boolean operators.",Other
+Loop ,A sequence of instructions that is repeated. This can be a fixed number of repetitions (count-controlled loop) or the number of repetitions can be controlled by a condition (condition-controlled loop).,Other
+Lossless compression ,A method of compression where no data is permanently lost during the process.,Other
+Lossy compression ,A method where data is permanently lost during the compression process and must be approximated when the file is decompressed.,Other
+Low-level languages ,Programming languages that require the programmer to specify the steps to solve a problem in terms that are aligned to the operations of a specific machine.,Other
+MAC address ,Media Access Control address. An address given to a network interface controller. Used to uniquely identify devices on a local area network.,Other
+Machine code ,Program instructions that require no further translation.,Other
+Machine learning ,Algorithms that learn the relationship between inputs and outputs in order to make predictions.,Other
+Magnetic storage ,A technique to store data using polarised magnetic dots. The polarity of the dot is used to represent a 1 or a 0.,Other
+Main memory ,A unit with addressable memory locations that can be accessed directly by the processor. Stores data and instructions while they are being processed.,Computer Systems
+Majority voting ,A method of error detection where each bit is sent multiple times and the majority value is used by the receiving device.,Other
+Malware ,"Malicious software. A program designed to cause damage to computer systems, corrupt or change files, steal data, or cause disruption to services.",Other
+Mantissa ,Part of a floating point number that contains the significant digits.,Other
+Map function ,"A higher-order function where a given function is applied to every element in a given list, resulting in a new list.",Other
+Mealy machine ,A type of finite state machine that produces outputs,Other
+Mebibyte ,"One mebibyte is 1, comma, 048, comma, 576,1,048,576 bytes (2, to the power 20 ,220). The symbol for the mebibyte is MiB. See also megabyte.",Other
+Megabyte ,"One megabyte is 1, comma, 000, comma, 000,1,000,000 bytes (10, to the power 6 ,106). The symbol for the megabyte is MB. See also mebibyte.",Other
+Megapixel ,One million pixels. The quality of images taken by digital cameras are often measured in megapixels.,Other
+Memory ,Storage within a computer system.,Computer Systems
+Memory Address Register (MAR) ,The register that holds the address of a memory location that the processor will read data from or write data to.,Computer Systems
+Memory Buffer Register (MBR) ,The register that holds the data that is being transferred to or from main memory. Also called the memory data register (MDR).,Computer Systems
+Memory Data Register (MDR) ,The register that holds the data that is being transferred to or from main memory. Also called the memory buffer register (MBR).,Computer Systems
+Memory leak ,A problem that occurs when a computer program does not manage memory correctly. It can result in a computer system running out of usable memory.,Computer Systems
+Merge sort ,"A sorting algorithm that works by repeatedly splitting data into sublists and merging pairs of sublists, ordering the items as they are merged.",Other
+Metadata ,Data that provides information about other data.,Other
+Method ,"In OOP, a function or procedure that is defined as part of a class definition.",Other
+MIDI ,"Musical Instrument Digital Interface. A technical standard that includes hardware specifications and a protocol to allow electronic musical instruments and computer systems to communicate, and produce and manipulate music.",Other
+Midpoint ,"The index (position) of the item that is directly in the middle of a list, or to the left of the middle if the list contains an even number of items.",Other
+Mnemonic ,A meaningful code (such as LOAD) that is used to represent an opcode in an assembly language program.,Other
+Model ,A systematic representation of an aspect of the real world.,Other
+Modem ,A device used to convert digital data into signals that can be transmitted across a telecommunication system such as such as telephone lines or radio.,Other
+Modulo operation ,An operation that returns the remainder of a division. The modulo operator is often represented by the abbreviation MOD or a percent sign (%).,Other
+Most significant bit (MSB) ,The leftmost bit in a binary number.,Other
+Mutable ,Able to be changed.,Other
+mailto ,"A URL scheme for email addresses. It is used to create a hyperlink that opens the user's default email client with a new email pre-populated with a recipient email address, e.g. mailto:someone@example.com.",Other
+NAND ,A Boolean operation that outputs True if either or both of the input values are False. It is the logical inverse of AND.,Other
+Natural numbers ,"The infinite set of positive integers, which includes zero.",Other
+Nested iteration ,A block of code where a loop is contained within another loop. The statements inside the inner loop are executed in their entirety for every iteration of the outer loop.,Other
+Network ,"A group of devices connected together, wirelessly or using cables, so that they can communicate with each other and share resources.",Other
+Network access device ,"Hardware often supplied by an internet service provider that combines a wireless access point, an Ethernet switch, a modem, and a router.",Other
+Network channel ,A band of frequencies that is allocated for devices on the same wireless network to communicate on.,Other
+Network forensics ,The process of monitoring and analysing network traffic to detect and help identify intruders as well as systems and data that may have been accessed.,Other
+Network Interface Controller (NIC) ,A component that allows a device to connect to a network.,Other
+Network security ,A collection of measures and tools adopted to control network traffic and prevent unauthorised access or use of data.,Other
+Newline character ,A control (non-printing) character that denotes the end of a line of text and the start of a new line. An escape sequence such as \n is often used in programming languages to signify a new line.,Other
+Node ,A fundamental unit of data within a graph data structure. Also called vertex.,Other
+Node (network) ,A device in a network that is either an endpoint (such as a computer) or a piece of communications equipment (such as a router) that is connected to one or more other nodes.,Other
+Non-volatile memory ,Memory that retains data when the device is switched off or power is lost.,Computer Systems
+NOR ,A Boolean operation that outputs True if both of the input values are False. It is the logical inverse of OR.,Other
+Normalisation (databases) ,"The process of defining efficient tables in a database by ensuring that data is dependent on the key, the whole key and nothing but the key.",Other
+Normalisation (floating point numbers) ,The process of optimising the representation of a floating point number so that each number has a unique representation.,Other
+NOT ,A Boolean operation that outputs True if the input value is False and vice versa,Other
+Object ,"In OOP, an instance of a class with specific data.",Other
+Object code ,Program code that has been translated and needs to be linked to become executable.,Other
+Object-oriented programming (OOP) paradigm ,An approach to software development that focuses on the concept of using objects that interact to make up a system.,Fundamentals of Programming
+One-time pad ,"An encryption key that is used just once to encrypt and decrypt a message, and is then completely destroyed.",Other
+Opcode ,Part of a machine code instruction that defines the fundamental machine operation to be used.,Other
+Open source software ,Software for which the program source code is made available to the general public.,Other
+Operand ,Part of a machine code instruction that defines the data or location of the data to be used.,Other
+Operating System ,"System software that manages hardware, software, and resources, and provides services for other software. It will also usually provide an interface for the end user.",Other
+Optical storage ,"A storage technique that uses discs. Data is stored as marks on the reflective surface of the disc. Examples include CD, DVD, and Blu-Ray.",Other
+OR ,A Boolean operation that outputs True if either or both input values are True,Other
+Output ,Information produced by a computer system as a result of processing data.,Other
+Output device ,"A peripheral device such as a printer, display unit or speaker that translates signals from the computer into a human-readable form.",Other
+Overflow error ,Occurs when the result of a calculation is a number that is too large to be represented in the number of bits available.,Other
+Overriding ,"In OOP, allowing an inherited method to be replaced by a more appropriate version (using the same identifier) in the child class.",Other
+Packet ,The name of the data structure at the internet layer. It is used to move the transport layer data from the source to the destination across a network.,Other
+Packet header ,The initial fields at the start of a packet that specify a series of parameters used to ensure the correct routing and processing of the packet.,Other
+Packet switching ,A method of transmitting data across the internet using small packets of data that can take any route and are reassembled by the receiving computer.,Other
+Parallel communication ,A method of communication where many bits are sent at the same time on a set of wires or tracks on a printed circuit.,Other
+Parameter ,"Part of the definition of a subroutine that specifies the data value(s) or reference(s) to be passed to the subroutine when it is called. When calling a subroutine, the values of the parameters are passed into the subroutine as arguments.",Other
+Parity bit ,A bit that is calculated from a set of data bits and used for error detection.,Other
+Partial function ,"A function that has been called with only some of the required arguments, allowing it to be reused or used as a building block for other functions.",Other
+Pass ,A complete traversal of a list.,Other
+Passing by reference ,"In many programming languages, parameters of subroutines can be specified either by value or by reference. When passing by reference is used, the memory address of an argument is passed into the subroutine. This means that the subroutine can change the actual value of the argument.",Other
+Passing by value ,"In many programming languages, parameters of subroutines can be specified either by value or by reference. When passing by value is used, a copy of the argument's value is passed into the subroutine. This means that the subroutine can't change the original value of the argument.",Other
+Patch ,"An update to software to fix an issue, such as a security vulnerability or bug.",Other
+Pattern recognition ,"A problem solving technique that recognises patterns or similarities in data, or identifying parts of the problem that have known algorithmic solutions.",Other
+Peek ,"The process of looking at, but not removing, the item at the top of a stack.",Other
+Peer-to-peer networking ,A network architecture where all devices have equal status and can share resources directly with each other.,Other
+Penetration testing ,A method of testing used to discover weaknesses or vulnerabilities in a system that could be exploited by hackers.,Software Development
+Performance modelling ,The process of evaluating if a system or a program performs as expected (or not) before being released.,Other
+Peripheral ,"Additional hardware devices that are external to the core components of a computer system. These devices can be used for input, output, or data storage.",Other
+Personal area network (PAN) ,A network of personal devices that allows data to be exchanged within their immediate vicinity.,Other
+Pharming ,"Deceiving users by sending them to a fake website that the user believes is the real one, with the intention of tricking them into submitting personal information.",Other
+Phishing ,"An attack in which the victim receives a message disguised to look like it has come from a reputable source (for example, a bank), in order to trick them into giving up personal information.",Other
+Pipelining ,"A way of organising subtasks so that they can be processed concurrently, in such a way that one subtask feeds into the next one.",Other
+Pixel ,The smallest addressable part of a bitmap image that corresponds to a single colour.,Other
+Place value ,"The value of a digit that appears within a number. For example, the place value of 1 in the base-10 number 1,098 is 1 thousand.",Other
+Plaintext ,"In encrypted communication systems, the plaintext is the original unencrypted message.",Other
+Pointer ,"A reference to a location in memory, usually in the form of a memory address.",Other
+Polyalphabetic cipher ,An encryption method in which different alphabetic substitutions are used for the same letter.,Other
+Polymorphism ,"In OOP, the concept that different classes can be accessed through the same interface. Each class can provide its own implementation of the interface so can exhibit different behaviour.",Other
+Pop ,The process of removing an item from the top of a stack.,Other
+POP3 ,Post Office Protocol v3. An application layer protocol for requesting and receiving emails from an email server,Other
+Port ,A number that identifies a specific network process running on a device.,Other
+Port forwarding ,A process through which a router uses port numbers to determine the destination of packets on a network.,Other
+Post-order traversal ,A method of traversing a tree so that a node is processed after both its left and right subtrees have been examined.,Other
+Postfix ,A notation where expressions are written with the operators after the operands.,Other
+Pre-order traversal ,A method of traversing a tree so that a node is processed before either its left or right subtrees are examined.,Other
+Precision ,A measure of how accurate a number is when stored  using a finite amount of significant digits.,Other
+Predicted result ,The output that a program should produce for a given input.,Other
+Predictive analytics ,Information from large data sets that is used to predict the likelihood of an action or event happening in the future.,Other
+Prefix ,A notation where expressions are written with the operators before the operands.,Other
+Prepend operator () ,Used to add a new single item to the front of a list.,Other
+Primary key ,A field that uniquely identifies a record in a database table.,Databases and SQL
+Printed circuit board (PCB) ,A board that makes connections between electronic components. It uses conductive tracks to allow the transfer of data between components.,Other
+Priority queue ,A queue in which each item has a priority associated with it that affects the position in which the item is added to the queue.,Data Structures
+Private key ,An encryption key that is kept secret and is used in conjunction with a corresponding public key for public/private key cryptography,Other
+Problem reduction (abstraction) ,The process of removing unnecessary detail so that the problem can be reduced to one that has already been solved.,Fundamentals of Programming
+Procedure ,"A named section of code that can be called (executed) to perform a specific task by using the identifier (name of the procedure) in a program statement. In computer science theory, a procedure does not return a value.",Other
+Process ,"A program, or part of a program, that is running on a computer system and using resources.",Other
+Processor ,The part of a computer system that carries out the fetch-decode-execute cycle.,Other
+Processor clock ,An electronic unit connected to the processor that synchronises when the fetch-decode-execute cycle runs.,Other
+Processor performance benchmark ,A set of baseline measurements that are used to compare processor performance,Other
+Program code ,Code written in a specific programming language.,Other
+Program Counter (PC) ,A register that stores the address of the next instruction to be fetched and executed.,Other
+Program crash ,Unexpected and abrupt program termination.,Other
+Program translation ,The process of converting code written by a programmer into a form that can be executed by a processor.,Other
+Programming paradigm ,An overall approach (guidelines and principles) to the way in which program code is written.,Other
+Proper subset ,"A set that is made up of some, but not all, values from another set.",Other
+Property (CSS) ,"An attribute of an HTML element that can be styled, e.g. the background colour or the font colour.",Other
+Proprietary software ,"Software with a licence that places restrictions on the user regarding their right to run, study, distribute, or modify the code.",Other
+Protocol ,A set of rules that enable two processes to communicate.,Other
+Pseudocode ,"A syntax for expressing an algorithm, independent of a specific programming language.",Other
+Public key ,An encryption key that is made widely available and is used in conjunction with a corresponding private key for public/private key cryptography.,Other
+Public key encryption ,"An asymmetric encryption method that uses a pair of keys, one public and one private.",Networks and Security
+Push ,The process of adding an item to the top of a stack.,Other
+QR code ,Quick Response code. A means of representing data in machine-readable form. QR codes traditionally appear as a matrix of black and white squares.,Other
+Queue ,"An abstract data type that defines a list of items one after another with a front and a rear. A queue is a FIFO (first in, first out) structure.",Data Structures
+Quick sort ,An algorithm that sorts a list by repeatedly selecting a pivot value around which the list is systematically rearranged until the whole list is sorted.,Other
+RAM ,Random-Access Memory. Memory in which the locations can be accessed directly in any order,Other
+Ransomware ,"A form of malware that prevents a user from accessing their files by encrypting them, and demands the victim pay a ransom in order to release them.",Other
+Rational numbers ,The infinite set of all numbers that can be expressed as fractions (or ratios).,Other
+Read mode ,A file handling mode that allows a program to read data from a file.,Other
+Real number ,Any positive or negative number with or without a fractional part.,Other
+Rear ,A pointer to the end of a queue.,Other
+Record ,A data structure that can be used to store multiple pieces of data that relate to the same thing. Each piece of data can have a different data type.,Other
+Recursive problem ,A problem that is defined in terms of itself.,Other
+Recursive subroutine ,A subroutine that calls itself.,Other
+Reduce/fold function ,A function that reduces a list to a single value by repeatedly applying a folding function.,Other
+Referential integrity ,"Requires that if a value of one attribute references a value of another attribute, then the referenced value must exist.",Other
+Register ,Storage location within the processor.,Other
+Regular expression ,Formal notation that defines a valid string for a regular language.,Other
+Rehashing ,The process of applying a hashing algorithm again when a collision has occurred.,Other
+Relational database management system (RDBMS) ,Software used to organise data into tables and define relationships between data attributes in different tables.,Databases and SQL
+Relational operator ,Operator such as > (greater than) or = (equals) that performs comparisons on pieces of data.,Other
+Removable media ,"Any external storage devices that can be easily removed from a computer, for example USB flash drives or SD cards.",Other
+REST ,Representational State Transfer. An architecture style for developing web services.,Other
+RFID ,Radio Frequency Identification. A system that uses electromagnetic fields to read data from tags attached to objects.,Other
+RLE ,Run Length Encoding. A lossless compression method where repeated runs of binary data are represented by a single instance of the data and the number of repetitions.,Other
+Rogue value ,A specific value used to terminate a loop or recursive algorithm. Also known as a sentinel value.,Other
+ROM ,"Read Only Memory. Memory that can be read from, but not written to.",Other
+Rounding ,The process of reducing the number of digits in a number by examining the digits that follow that will be discarded.,Other
+Router ,"A networking device with two or more interfaces, each in a different network. It examines the destination IP address of incoming packets to decide which interface to use to forward the packet.",Other
+RPN ,Reverse Polish Notation. A type of postfix notation where expressions are written with the operators after the operands.,Other
+RTS/CTS ,Request to Send/Clear to Send. A pair of signals that can be used to manage the process of sending data over a wireless network.,Other
+Runtime error ,An error that occurs during the execution of a program.,Other
+Sample ,"A single measurement of the amplitude of an analogue signal, typically sound.",Other
+Sample resolution ,The number of bits used to encode each sample. Determines how accurately the sample can be represented. Also called bit depth.,Other
+Sampling ,"A method of capturing analogue data so that it can be converted to digital form, for example, by measuring sound at fixed intervals.",Other
+Sampling interval ,The amount of time (measured in seconds) between two consecutive samples.,Other
+Sampling rate ,The number of samples captured per second. Expressed in hertz (where 1Hz is one sample per second).,Other
+Scalar ,A single element of a number set.,Other
+Scheduling algorithm ,An algorithm that determines the order in which an operating system will execute queued processes.,Fundamentals of Programming
+Schema ,A description of the structure of a file in formal language.,Other
+Scope ,Defines the area of a program where an entity - typically a variable - is valid and can be used. A variable with global scope can be used anywhere in the program.,Other
+Secondary storage ,Types of non-volatile memory that are used to permanently store data such as the operating system and user files.,Other
+Selection ,"A program control structure with a logical test, or sequence of tests, that evaluate(s) to True or False. It allows subsequent statements to be run selectively depending on the outcome of the test(s).",Other
+Selector (CSS) ,"The target of a style rule. This can be an HTML element, an id, or a class.",Other
+Self-documenting code ,"Program code that uses meaningful identifiers for the names of subroutines, variables, and other references so that fewer comments are needed.",Other
+Sequence ,"A set of instructions that will be carried out, one after another, in the stated order.",Other
+Serial transmission ,A method of data transmission where bits are sent one at a time over a single wire.,Other
+Serialisation ,A method of handling concurrent updates to a database.,Other
+Server ,"A computer on a network that provides a service. Examples include file server, print server, and web server.",Other
+Set ,An unordered collection of unique elements of the same data type.,Other
+Shortest path ,The  sequence of edges between two nodes of a graph with the lowest total weight.,Other
+Shouldering ,A type of social engineering attack designed to steal a victim's password or other sensitive information by using close visual observation.,Other
+Sign and magnitude ,A method of representing signed (i.e. negative and positive) numbers where the most significant bit is used as a sign bit and has no place value.,Other
+SMTP ,Simple Mail Transfer Protocol. An application layer protocol that handles the sending of emails.,Other
+Social engineering ,Techniques used to trick users into giving away personal information by psychological manipulation.,Other
+Social media ,"Technologies that allow people to create and share information, and interact using virtual communities and networks.",Other
+Socket ,An addressable location that provides an endpoint for communication between two internet hosts. Sockets are addressed via their port number.,Other
+Software ,"A generic term used to refer to applications, scripts, programs and systems that run on a device and execute specific tasks.",Other
+Software development ,The process of developing a computer system.,Other
+Software licence ,A legal document that outlines any restrictions on the use and/or distribution of a piece of software.,Other
+Source code ,Program code that has not been compiled.,Other
+Space complexity ,The amount of memory needed to run an algorithm relative to the size of its input.,Other
+Spyware ,A form of malware that captures data from a computing device and transmits it without the user's knowledge.,Other
+SQL ,Structured Query Language. A declarative language designed for managing data held in a relational database management system,Databases and SQL
+SQL statement ,A statement that is run against a database to select or manipulate data.,Databases and SQL
+SSD ,Solid-state drive. A storage device composed of flash memory that is non-volatile. Binary data is stored in electrical circuits and can be accessed at random.,Other
+SSH ,Secure Shell. A protocol that allows for data to be encrypted.,Other
+Stack ,"An abstract data type that defines a linear structure where the last item to be added is the first item to be removed (called last in, first out or LIFO).",Data Structures
+Stack frame ,An entry of the call stack for a specific instance of an active subroutine. The frame will contain the values of parameters and local variables and the address to be returned to when the instance is removed from the stack.,Data Structures
+Stage-by-stage approach ,An approach to systems development where each stage is completed before the next stage is started.,Other
+Standard ,A set of specifications for hardware or software that are agreed by the technology community.,Other
+Star topology ,"The arrangement (usually physical) of a network where devices are connected through a central point, e.g. a switch.",Other
+Start bit ,A bit that is sent to signify the start of transmission when using asynchronous communication.,Other
+State transition diagram ,An image that represents the logic of a finite state machine.,Other
+State transition table ,A table that represents the logic of a finite state machine.,Other
+Statement ,An instruction in a computer program.,Other
+Static data structure ,A collection of data whose size cannot change during program runtime.,Other
+Static filtering ,"A method used by a firewall, that checks traffic against a list of rules to determine whether the traffic should be allowed to pass through.",Other
+Status Register (SR) ,A register that keeps track of the state of the processor. The different bits are used as status flags.,Other
+Stop bit ,A bit that is sent to signify the end of transmission when using asynchronous communication.,Other
+Stored program concept ,"The fundamental idea that program instructions are stored in main memory from where they are fetched, decoded and executed by the processor.",Other
+String ,"A sequence of characters, e.g. letters, numbers, spaces, and other symbols.",Other
+String length ,The number of characters in a string.,Other
+Strong password ,A password that is hard to crack because it would take a hacker too many attempts to use brute force to guess it correctly within a useful timeframe.,Other
+Structured English ,A method of writing algorithms using simple English words for commands and mathematical operations.,Other
+Style (CSS) ,Used to describe how a particular HTML element or collection of HTML elements on a webpage should look.,Other
+Stylus ,"A pen designed specifically to interact with touchscreens, such as a smartphone or graphic tablet.",Other
+Subnet mask ,A bitmask that allows the network ID to be revealed from an IP address for routing purposes.,Other
+Subroutine ,A named section of code that can be called to perform a specific task by using the subroutine identifier in a program statement. A subroutine can be either a procedure or a function.,Other
+Subroutine interface ,Defines how data must be passed into and out of a subroutine in terms of parameters and return values.,Other
+Subset ,A set that is made up of some or all values from another set.,Other
+Substitution cipher ,"A cipher where one character, or set of characters, is substituted by another character (or set of characters) according to a fixed system of substitution.",Other
+Substring ,A part of a string.,Other
+Switch ,A network component that is used to connect devices on a local area network. It learns which device is connected to each of its ports so that it can switch traffic directly to the correct recipient.,Other
+Symmetric encryption ,A method of encryption where the same key is used to encrypt and decrypt a message.,Networks and Security
+Synchronous communication ,A method of communication where data is transmitted over a channel at a constant rate controlled by a shared clock signal.,Other
+Syntax ,The precise way that program statements must be written to be understood by the computer. It is specific to the programming language that you use.,Other
+Syntax diagram ,A method of checking whether a string conforms to the grammar of a context-free language such as BNF.,Other
+Syntax error ,"An error that occurs when the rules of the programming language are not adhered to; for instance, a missing bracket.",Other
+System clock ,"An oscillator that produces a continuous stream of alternating signals, interpreted as 1,1s and 0,0s. The clock signal is carried to every component of the computer system to synchronise operations.",Other
+System objectives ,A list of objectives that a new or replacement computer system must satisfy.,Other
+System requirements ,The specification of precisely what needs to be achieved by a new or replacement computer system.,Other
+System software ,Software that interfaces with the hardware of the computer system and performs tasks that are machine-oriented.,Other
+Tail function ,A function that returns a list of items without its head.,Other
+TCP/IP stack ,A conceptual four-layer model and set of protocols for internet communications.,Data Structures
+Terminator ,"A device at the end of a network cable, that absorbs data signals, to prevent them reflecting back.",Other
+Test data ,"Data that has been carefully selected for testing. It should include normal, boundary, and invalid values as appropriate.",Other
+Testing ,"The systematic process of checking that a subroutine, program, or system works as expected.",Software Development
+Text editor ,A piece of software designed to display text files and allow users to edit them. Examples include Notepad and TextEdit.,Other
+Text file ,"A file containing character data, with no special formatting. Examples of text file type extensions include '.txt' and '.csv'. Text files can be read and made sense of by humans as well as by computer systems.",Other
+Time complexity ,The amount of time needed to run an algorithm relative to the size of its input.,Other
+Time slice ,A slot of time allocated to a computer process so that multiple processes can appear to be running at the same time.,Other
+Tokenisation ,The process of assigning token names to code elements as part of the process of compiling a program.,Other
+Top ,A pointer to the top of a stack.,Other
+Topology ,The physical or logical arrangement of connections and devices in a network.,Other
+Trace table ,A table with a column for each variable that allows its values to be recorded during a dry run of the code (or pseudocode).,Other
+Tracing ,"Following the flow of execution of a program, tracking the values of variables as they change, as well as the outputs.",Other
+Tractable problem ,A problem that can be solved by a computer system in a reasonable amount of time.,Other
+Transition function ,"A set of rules for a Turing machine that use the current state and input symbol to determine the output symbol, next state, and movement of the head.",Other
+Translator ,A piece of system software that converts code written by a programmer into a form that can be executed by a computer system.,Other
+Transmission media ,The physical connection between devices on a network. It can be broadly categorised into either wired media (e.g. fibre-optic cables) or wireless.,Other
+Traversal ,An algorithm that visits the items in a data structure one at a time.,Other
+Tree ,A graph that is fully connected with no cycles.,Data Structures
+Tree traversal ,The systematic process of visiting (checking/updating) each node in a tree exactly once.,Data Structures
+Trojan ,A piece of malware that is hidden inside another file in a computer system.,Other
+Truncation ,The operation of cutting off characters or digits at the start or the end of a number or a (text) string.,Other
+Truth table ,A table showing the outputs for all possible combinations of inputs to a logic gate or a circuit made up of logic gates.,Other
+Turing machine ,"A model of computation that defines computability. Its components are a read/write head, an infinite tape, and a set of transition functions.",Theory of Computation
+Two's complement ,A method of representing signed (i.e. negative and positive) numbers where the most significant bit has a negative place value.,Other
+UDP ,User Datagram Protocol. A transport layer protocol that prioritises the speed of data transmission over reliability.,Other
+Underflow error ,Occurs when the result of a calculation is a number that is too small to be represented in a given number of bits.,Other
+Unicode ,"An encoding format that allocates a numeric code to characters in order for them to be represented in binary within a computer system. Unicode covers the characters for most known alphabets and special symbols (e.g. mathematical operators, geometric shapes, arrows, emojis, etc.).",Other
+Union ,A set operation between two or more sets that results in a new set that contains all the distinct elements from the original sets.,Other
+Universal Turing machine ,A model of a computing machine that can simulate any Turing machine by reading a description of the machine from its own tape,Theory of Computation
+URL ,Uniform Resource Locator. The address of a resource on the internet. It indicates the location of a resource as well as the protocol used to access it.,Other
+User ,The person interacting with a computer system through its user interface.,Other
+Utility software ,A subcategory of system software that improves the security or performance of a computer system. Examples include antivirus software and registry cleaners.,Other
+UTP cable ,Unshielded Twisted Pair cable. A type of cable where two conductors are twisted together to reduce interference. Also known as Ethernet cable.,Other
+Validation ,Checking that data is acceptable by comparing it against a set of criteria.,Other
+Variable ,An identifier associated with an area of computer memory in which data is stored. The data can change during program execution.,Other
+Vector ,An abstract data type that defines a collection of entries drawn from the same field.,Other
+Vector graphic ,An image that is stored as a set of instructions to recreate it. Uses a drawing list made up of a set of objects and their properties.,Data Structures
+Venn diagram ,"An illustration that uses circles to show the relationships between different groups of elements. Where the circles overlap, it shows that there are elements in common.",Other
+Vernam cipher ,An encryption method where each character is combined with a corresponding key character using a logical bitwise XOR operation.,Other
+Vertex ,A fundamental unit of data within a graph data structure. Also called node.,Other
+Virtual network ,A network whose logical structure is independent of its physical structure. A VLAN is a virtual local area network.,Other
+Virtual Storage ,"A method of using a shared storage device, sometimes connected to the internet, that a user can access as if it were local storage.",Other
+Virus ,Malware in the form of a program that attaches itself to another file and can replicate itself when the file is executed.,Other
+Visited list ,The set of nodes of a graph that have been fully explored,Other
+Visualisation ,A variety of techniques used to illustrate a problem and/or its solution to make it easier to understand.,Other
+Volatile memory ,Memory that only retains data when there is power to the device.,Computer Systems
+Von Neumann architecture ,A computer architecture that provides a single shared memory for data and instructions.,Other
+VPN ,"Virtual private network. Extends a private network across a public network (such as the internet), allowing secure access to systems and data.",Other
+Vulnerability ,"A weakness in a computer system that leaves it open to attack, such as an insecure wireless network or unpatched software.",Other
+Waterfall lifecycle ,A linear approach to software development where each stage is completed before the next stage begins.,Other
+Websocket protocol ,A set of rules that allows two computers to share a dedicated channel for the exchange of web page content.,Other
+Weight ,A value associated with an edge in a graph.,Other
+Weighted graph ,A graph where values are assigned to the edges.,Data Structures
+White box testing ,A method of testing where all possible routes through a program are identified and tested.,Software Development
+Wi-Fi ,The tradename for a family of wireless network protocols that allow devices to communicate over a local network using radio waves.,Other
+Wide area network (WAN) ,"Two or more distinct networks connected together, usually covering a large geographical area.",Other
+Wireless Access Point (WAP) ,A network device that manages wireless connections to a local area network.,Other
+WLAN ,Wireless local area network. Uses wireless communication protocols to connect devices on a local area network.,Other
+World Wide Web (WWW) ,"A collection of hyperlinked content accessible on the internet, usually web pages.",Other
+Worm ,Malware that is able to replicate itself and does not need to use another file as a vector.,Other
+WPA/2/3 ,Wi-Fi Protected Access v2/3. A protocol for encrypting data on a wireless network.,Other
+Write mode ,"A file handling mode that allows a program to write data to a file. If the file does not exist, a new file is created, while if the file already exists, the content is overwritten.",Other
+XML ,Extensible Markup Language. An open file format that uses human-readable text for data transmission.,Other
+XOR ,"A Boolean operation that outputs True if either, but not both, of the input values are True",Other
+Isaac Computer Science is part of theNational Centre for Computing Education.,"All teaching materials on this site are available under the Open Government Licence v3.0, except where otherwise stated.",Other
