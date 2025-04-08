@@ -1,6 +1,9 @@
 from utils import type_effect
 from csv_handler import *
-import os 
+import os
+from online_glossary_search import use_online_glossary
+from pdf_reader import pdf_read
+
 class Revision_Controller():
     def __init__(self):
         pass  # Initialize the class if necessary
@@ -60,29 +63,51 @@ class Revision_Controller():
 
             if answer.lower() == 'yes':
                 flashcards = []
-                while True:
-                    term = input('Term: ')
-                    definition = input('Definition: ')
-                    if term.lower() == "quit" or definition.lower() == "quit":
-                        break  # Exit loop if quit is typed
-                    elif not term or not definition:
-                        type_effect("Both term and definition are required. \n", speed=0.05)
-                    else:
-                        flashcards.append([term, definition])
+                options = [
+                    '                                    ',
+                    '                           1. Type Yourself \n',
+                    '                           2. Scrape from Website \n',
+                    '                           3. Scrape from PDF \n',
+                    '                           4. Exit \n'
+                ]
 
-                if flashcards:
-                    write(file, flashcards)  # Write flashcards to file
-                    type_effect(f'{len(flashcards)} flashcards have been added to {new_topic}. \n', speed=0.05)
+                for i in options:
+                    type_effect(i, speed=0.05)
+
+                answer = input('>>> ')
+                if answer == '1':
+                    while True:
+                        term = input('Term: ')
+                        definition = input('Definition: ')
+                        if term.lower() == "quit" or definition.lower() == "quit":
+                            break  # Exit loop if quit is typed
+                        elif not term or not definition:
+                            type_effect("Both term and definition are required. \n", speed=0.05)
+                        else:
+                            flashcards.append([term, definition])
+
+                    if flashcards:
+                        write(file, flashcards)  # Write flashcards to file
+                        type_effect(f'{len(flashcards)} flashcards have been added to {new_topic}. \n', speed=0.05)
+                    else:
+                        type_effect("No flashcards were added. \n", speed=0.05)
+                elif answer == '2':
+                    type_effect('Enter website: ')
+                    website = input('>>> ')
+                    use_online_glossary(website)
+                elif answer == '3':
+                    type_effect('Enter URL to PDF: ')
+                    pdf_url = input('>>> ')
+                    pdf_read(pdf_url)
                 else:
-                    type_effect("No flashcards were added. \n", speed=0.05)
+                    type_effect('No valid option selected. \n', speed=0.05)
+
+                file.close()  # Close the file if it was opened
             else:
                 type_effect(f'No flashcards added. File {new_topic}.csv has been created. \n', speed=0.05)
-            
-            file.close()  # Close the file if it was opened
+                
         else:
             type_effect('No name entered. Please type in a name. \n', speed=0.05)
-
-    
 
     def delete_topic(self):
         topics = find_csv_files()
