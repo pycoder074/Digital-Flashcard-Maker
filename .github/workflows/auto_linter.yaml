@@ -3,33 +3,33 @@ name: Python Lint and Format
 on:
   pull_request:
     branches:
-      - main  # Adjust the branch as needed
+      - main
   push:
     branches:
-      - main  # Adjust the branch as needed
+      - main
+  workflow_dispatch:  # Allows you to manually trigger the workflow from GitHub UI
 
 jobs:
   lint_and_format:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.x  # Choose your Python version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install black flake8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install black flake8
 
-    - name: Run black (auto-format)
-      run: |
-        black .  # This will auto-format the code if needed (it will change it)
+      - name: Run black (auto-format)
+        run: |
+          black .  # Auto-format the code
 
-    - name: Run flake8 (linting)
-      run: |
-        flake8 .  # This will check your code for linting errors
+      - name: Run flake8 (linting)
+        run: |
+          flake8 .  # Lint the code
